@@ -263,7 +263,7 @@ class SoundTestMenu extends MusicBeatState
 				woahmanstopspammin = false;
 				PlayStateChangeables.nocheese = false;
 				PlayState.isFreeplay = false;
-				PlayState.SONG = Song.loadFromJson('too-fest-hard', 'too-fest');
+				PlayState.SONG = Song.loadFromJson('you-cant-run-hard', 'you-cant-run');
 				PlayState.isStoryMode = false;
 				PlayState.storyDifficulty = 2;
 				PlayState.storyWeek = 1;

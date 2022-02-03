@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Sonic.exe" file="Sonic.exe" packageName="com.sirox.sonicexe2" package="com.sirox.sonicexe2" main="Main" version="0.2.7.1" company="sirox" />
+	<app title="Lord X" file="Lord X" packageName="com.kay7.lordx" package="com.kay7.lordx" main="Main" version="6.6.6.0" company="kay7" />
 	
 	<haxedef name="LINC_LUA_RELATIVE_DYNAMIC_LIB"/> <!-- stable luas PUT AFTER FIRST LINE WITH APP NAME AND ETC -->
 
